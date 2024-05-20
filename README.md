@@ -5,8 +5,7 @@ Welcome to my submission for the Leaflet Challenge in module 15 of the Data Anal
 
 
 # Challenge Description
-
-For this assignment, we built an interactive dashboard to explore the Belly Button Biodiversity dataset, showcasing microbial species present in human navels. Utilizing D3.js and Plotly.js, we created dynamic bar and bubble charts displaying sample data, with the ability to select individual samples from a dropdown menu. Additionally, we implemented a metadata panel to display demographic information corresponding to each selected sample.
+For this assignment, we were tasked with developing a visualization tool for earthquake data provided by the United States Geological Survey (USGS). It involved fetching earthquake data from the USGS GeoJSON feed, plotting the earthquakes on a Leaflet map, where marker size represents magnitude and color indicates depth, and creating a legend for contextual information. 
 
 ![image](https://github.com/erinengle2024/leaflet-challenge/assets/158017994/e1b2fab4-fe02-45bf-aa17-51c7fbc86b97)
 ![image](https://github.com/erinengle2024/leaflet-challenge/assets/158017994/3dfbe92d-4003-468b-9503-b7ba514e76be)
@@ -39,7 +38,7 @@ For this assignment, we built an interactive dashboard to explore the Belly Butt
 
   
   # My Results
-![image](https://github.com/erinengle2024/belly-button-challenge/assets/158017994/df8bb8b8-30f9-4386-a623-ec7602c95604)
+![Screenshot 2024-05-19 at 9 51 45 PM](https://github.com/erinengle2024/leaflet-challenge/assets/158017994/493c0b62-385c-4d72-89bc-252e29d3b39b)
 
 
 # Resources Used
