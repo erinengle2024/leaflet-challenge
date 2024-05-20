@@ -44,25 +44,29 @@ For this assignment, we were tasked with developing a visualization tool for ear
 # Resources Used
 
 Challenges I drew heavily from include the following:
- - The Student Plotly Chart Exercise
- - The Mulitple Trace Charts Exercise
- - The Creating Functions Exercise
- - The Processing Functions Exercise
- - The D3 Select Exercise
- - The This Button Exercise
+ - The Student City Markers Exercise
+ - The Student Country GDP Exercise
+ - The Layer Group Exercise
+ - The Student GeoJson Exercise
+ - The Student Marker Cluster Exercise
+
 
 
 
 These challenges, in addition to the other challenges provided, helped teach us the following:
-- How to write functions using basic JavaScript Syntax
-- How to use event listeners
-- How to chart using plotly functions
-- How to use the D3 library, and locate documentation
+- How to create a map object
+- How to implement map controls
+- How to connect to the leaflet library
+- How create a map legend
 
-![image](https://github.com/erinengle2024/belly-button-challenge/assets/158017994/d6b28bc3-450a-40b6-a96c-8e2d50ea1dd5)
-![image](https://github.com/erinengle2024/belly-button-challenge/assets/158017994/bb35a291-7f41-4d55-a288-48126ecf1a29)
-![image](https://github.com/erinengle2024/belly-button-challenge/assets/158017994/ad1be753-67a1-48e3-8fb0-59301b0977f3)
-![image](https://github.com/erinengle2024/belly-button-challenge/assets/158017994/cbaf8282-c506-4a4c-a7e1-15ee9677341a)
+- ![image](https://github.com/erinengle2024/leaflet-challenge/assets/158017994/39bfe53e-4083-4559-bab1-0e5c90563ed5)
+- ![image](https://github.com/erinengle2024/leaflet-challenge/assets/158017994/a167853f-c4db-4529-8163-5f69c05f74c2)
+- ![image](https://github.com/erinengle2024/leaflet-challenge/assets/158017994/11b312c2-80b4-4172-81a7-6647d66d3088)
+
+
+- 
+
+
 
 
 
